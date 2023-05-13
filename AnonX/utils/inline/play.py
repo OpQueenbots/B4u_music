@@ -64,7 +64,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/+gQwKPFkDRQE4Nzg1"
             ),
             InlineKeyboardButton(
-                text="✘ 𝙐𝙋𝘿𝘼𝙏𝙀𝙎 ✘", url=f"https://t.me/Kalakar_Sangram"),
+                text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Kalakar_Sangram"),
         ],
     ]
     return buttons
@@ -124,7 +124,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
             ),
 
             InlineKeyboardButton(
-                text="✘ 𝙐𝙋𝘿𝘼𝙏𝙀𝙎 ✘", url=f"https://t.me/Kalakar_Sangram"),
+                text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Kalakar_Sangram"),
         ],
     ]
     return buttons
@@ -155,7 +155,7 @@ def stream_markup(_, videoid, chat_id):
                 text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Red_Wine_Op"
             ),
             InlineKeyboardButton(
-                text="✘ 𝙐𝙋𝘿𝘼𝙏𝙀𝙎 ✘", url=f"https://t.me/Kalakar_Sangram"),
+                text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Kalakar_Sangram"),
         ],
     ]
     return buttons
@@ -183,7 +183,7 @@ def telegram_markup(_, chat_id):
                 text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/+gQwKPFkDRQE4Nzg1"
             ),
             InlineKeyboardButton(
-                text="✘ 𝙐𝙋𝘿𝘼𝙏𝙀𝙎 ✘", url=f"https://t.me/Kalakar_Sangram"),
+                text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Kalakar_Sangram"),
         ],
     ]
     return buttons
@@ -340,7 +340,7 @@ def queue_markup(_, videoid, chat_id):
                 text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/+gQwKPFkDRQE4Nzg1"
             ),
             InlineKeyboardButton(
-                text="✘ 𝙐𝙋𝘿𝘼𝙏𝙀𝙎 ✘", url=f"https://t.me/Kalakar_Sangram"),
+                text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Kalakar_Sangram"),
         ],
     ]
     return buttons
